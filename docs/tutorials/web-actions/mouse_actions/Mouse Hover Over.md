@@ -6,7 +6,7 @@ import TabItem from '@theme/TabItem';
 
 ## Overview
 
-The mouseoverOnLink function performs a mouse hover action over a link element on the page with support for screenshots and error handling.
+The `mouseoverOnLink` function performs a mouse hover action over a link element on the page with support for screenshots and error handling.
 
 
 ## Syntax

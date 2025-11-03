@@ -18,12 +18,12 @@ const config: Config = {
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/PlayQ-Docs/',
+  baseUrl: '/playQ-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'NcsQ', // Usually your GitHub org/user name.
-  projectName: 'PlayQ-Docs', // Usually your repo name.
+  projectName: 'playQ-docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
