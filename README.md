@@ -4,7 +4,7 @@ Official documentation for **PlayQ** - An AI-powered Test Automation Framework b
 
 ## 🌐 Live Documentation
 
-Visit the documentation site: [https://github.com/NcsQ/playq-docs](https://github.com/NcsQ/playq-docs)
+Visit the documentation site: [https://ncsq.github.io/playq-docs/](https://ncsq.github.io/playq-docs/)
 
 ## 📖 About PlayQ
 
