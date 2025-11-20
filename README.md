@@ -40,7 +40,7 @@ Built for complex platforms like Microsoft Dynamics 365 CRM, Salesforce, and iVa
 ### Installation
 
 ```bash
-git clone https://github.com/thusitha-bandara/PlayQ-Docs.git
+git clone https://github.com/NcsQ/playq-docs.git
 cd PlayQ-Docs
 npm install
 ```
